@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Chaitanya, a AI and ML Developer 👋🏼:
 👨🏼‍🎓 studying Computer Science (Artificial Intelligence and Machine Learning at DAVIET<br>👨🏼‍💻 working as a Tech developer since 2022 <br>🎬 just started out with my Patreon channel <i>
